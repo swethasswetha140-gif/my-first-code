@@ -1,4 +1,4 @@
-# ATS Resume Checker - By S Swetha | Hyderabad | 2026
+# ATS Resume Checker - By SSwetha | Hyderabad | 2026
 # Placement Project - Original Code
 
 def ats_checker():
