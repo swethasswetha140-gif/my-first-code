@@ -13,7 +13,7 @@ From Hyderabad
 - Git & GitHub
 - Learning everyday!
 
-###📫 Connect with me
+### 📫 Connect with me
 - GitHub: @swethasswetha140-gif
 
-✨*"My journey started today!"*
+✨ *"My journey started today!"*
